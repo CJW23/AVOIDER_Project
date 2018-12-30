@@ -7,7 +7,9 @@ AVOIDER는 시각 장애인과 같이 게임을 플레이 할 수 있게 만든 
  
 1. Unity 기반 프로젝트입니다. 
 2. Kinect v1을 사용해야합니다.
+
 메뉴 Scene : Assets/menu/유니티/mainMenu
+
 게임 Scene : Assets/GamePlay/LaheeWorld
 
 <img src="https://user-images.githubusercontent.com/32676275/50547326-459df000-0c7b-11e9-9462-fe2b9dfbf957.png" width="50%" height="250px"><img src="https://user-images.githubusercontent.com/32676275/50547550-ed68ed00-0c7e-11e9-8c2a-af5d67b8fe3e.png" width="50%" height="250px">
